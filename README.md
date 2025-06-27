@@ -9,7 +9,7 @@ Most of the projects hosted on my Github are Games, Toys, and Advanced Coding Pr
 * 💻 Currently developing 'GRIMWAR', a fast-paced mobility shooter, and 'Look Up', a mixed reality flight tracker.
 * 🌱 Learning Expo, React Native, and other tools for mobile development
 * 🎯 Working with full-stack development (Node.js + Express + databases)
-* 🤖 Exploring AI technologies
+* 🤖 (Cautiously) Exploring AI technologies
 * 🎨 Background in Production, Project Management, 3D and 2D art for Game Development, and Programming for Object Oriented Systems.
 
 ## Hobbies & Interests
