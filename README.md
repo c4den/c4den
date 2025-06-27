@@ -12,7 +12,7 @@ Most of the projects hosted on my Github are Games, Toys, and Advanced Coding Pr
 * 🤖 Exploring AI technologies
 * 🎨 Background in Production, Project Management, 3D and 2D art for Game Development, and Programming for Object Oriented Systems.
 
-🎮 Hobbies & Interests
+## Hobbies & Interests
 
 * 🎧 Math Rock and Heavy Metal
 * 🎮 Game Development and Research
