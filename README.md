@@ -19,5 +19,4 @@ Most of the projects hosted on my Github are Games, Toys, and Advanced Coding Pr
 * 🎸 Playing and Producing Music
 * 🎨 2D and 3D art
 
-## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=c4den&show_icons=true&theme=vue-dark)
