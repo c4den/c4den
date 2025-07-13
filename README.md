@@ -2,7 +2,7 @@ Heya! I'm Caden, a Game Developer and Computer Scientist with a strong design ph
 
 ## Projects
 
-Most of the projects hosted on my Github are Games, Toys, and Advanced Coding Problems that I've completed through my time as a Computer Science student at the University of Central Florida. 
+Most of the projects hosted on my Github are Games, Toys, and Advanced Coding Problems that I've completed through my time as a Computer Science & Game Design student at the University of Central Florida. 
 
 ## About Me
 
