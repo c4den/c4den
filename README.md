@@ -21,4 +21,4 @@ Heya! I'm Caden, a Software Engineer with a strong design philosophy to evoke em
 * 🎸 Playing and Producing Music
 * 🎨 2D and 3D art
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=c4den&show_icons=true&theme=vue-dark)
+[![Caden's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=c4den)](https://github.com/c4den/github-readme-stats-fast)
