@@ -9,9 +9,10 @@ Heya! I'm Caden, a Software Engineer with a strong design philosophy to evoke em
 
 ## Projects
 
-* Currently working with ASquare Games and Simulation as a Programming Intern.
+* Just finished up an internship with ASquare Games and Simulation as a Programmer, Producer, and Creative Director..
+* Finished up development on a Mobile Mixed Reality Application aimed at real-time object detection that detects planes and displays information in an overlay, called "Look Up" 
+* Developing final update for GRIMWAR, a first-person mobility shooter as a programmer, lead level designer, and producer
 * Additionally working on a (currently) untitled multiplayer first-person-shooter game made in Unity, using the built-in Netcode features with Carson Moon.
-* Just finished up development on a Mobile Mixed Reality Application aimed at real-time object detection that detects planes and displays information in an overlay, called "Look Up" 
 
 ## Hobbies & Interests
 
